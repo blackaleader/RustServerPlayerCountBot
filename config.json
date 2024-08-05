@@ -6,7 +6,7 @@
     "Servers": [
       {
         "IP": "YOUR_SERVER_IP",
-        "Port": "YOUR_SERVER_RCON_PORT",
+        "Port": YOUR_SERVER_RCON_PORT,
         "RconPassword": "YOUR_RCON_PASSWORD",
         "DiscordToken": "YOUR_DISCORD_TOKEN"
       }
