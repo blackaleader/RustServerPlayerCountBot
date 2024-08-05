@@ -1,0 +1,16 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "clientId": "YOUR_CLIENT_ID",
+    "guildId": "YOUR_GUILD_ID",
+    "SetTimeout": "5000",
+    "Servers": [
+      {
+        "IP": "YOUR_SERVER_IP",
+        "Port": "YOUR_SERVER_RCON_PORT",
+        "RconPassword": "YOUR_RCON_PASSWORD",
+        "DiscordToken": "YOUR_DISCORD_TOKEN"
+      }
+    ],
+    "webhookUrl": "LOG_CHANNEL_WEBHOOK"
+  }
+  
