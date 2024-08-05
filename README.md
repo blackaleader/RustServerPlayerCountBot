@@ -1,6 +1,6 @@
 # RustServerPlayerCountBot
 
-A Discord bot for monitoring player counts on Rust game servers using RCON. This bot connects to your Rust server and provides real-time updates on player statistics directly in your Discord server.
+A Discord bot for monitoring player counts on Rust game servers using RCON. This bot connects to your Rust server and provides real-time updates on player statistics directly in its custom status. Additionally, it logs the server chat in a designated text channel on your Discord server.
 
 ## Installation Instructions
 
